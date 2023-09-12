@@ -22,6 +22,17 @@ header{
 	padding: 0 8%;
 	
 }
+.images-container{
+	width:800px;
+}
+.asteal{
+	width:58%;
+	height:auto;
+	transform: translateX(-60px);
+	transform: translateY(-120px);
+
+}
+
 .text-box{
 	position: absolute;
 	bottom: 8%;
@@ -40,6 +51,7 @@ header{
 	background:url(image/ROT.gif);
 	-webkit-background-clip:text;
 }
+
 .text-box h3{
 	font-size:40px;
 	font-weight:500;
@@ -51,20 +63,22 @@ header{
 	transform: translateY(-49px);
 	max-width:100%;
 }
-.big-image3{
-	eight: 200px;
+.big-image22{
+	margin-right:90%;
+	margin-top:-990px;
+	padding: 10px;
+	transform: translateY(-49px);
+	transform: translate(-500px);
+	height: 900px;
 }
 .astea{
-	margin:70px;
-	transform: translateY(99px);
+
 	max-width:100%;
-	height: auto;
-	font-weight:200px;
-	    transition: transform 0.3s; 
+	height:300px;
+	width: 300px;
 	padding: 70px;
-	width:620px;
-	margin-top:-100px;
-	font-weight:200px;
+	width:700px;
+
 }
 
 .logo{
@@ -87,7 +101,6 @@ h1{
 	color:rgb(27,20,17);
 }
 header img{ 
-	border-radius: 174px;
 	width: 300px;
 }
 .content{
