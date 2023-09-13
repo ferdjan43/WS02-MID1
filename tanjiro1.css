@@ -1,20 +1,19 @@
 html, body{
-	font-family: 'poppins', sans-serif;
-	margin: 0;
-	background:linear-gradient(to bottom, rgb(203, 192, 198), rgb(242, 250, 253));background: linear-gradient(rgb(203, 192, 198), rgb(242, 250, 253));
+    font-family: 'poppins', sans-serif;
+    margin: 0;
+    background:linear-gradient(to bottom, rgb(203, 192, 198), rgb(242, 250, 253));background: linear-gradient(rgb(203, 192, 198), rgb(242, 250, 253));
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
-	
 }
 @font-face{
 	font-family: myfont;
 	src:url(eren.ttf);
 }
 header{
-	background-image: url('image/neren12.png');
-	background-position: center 20px;
-	background-size: cover;
+    background-image: url('image/neren12.png');
+    background-position: center 20px;
+    background-size: cover;
     background-position: center;
     height: 850px;
     overflow: hidden; 
@@ -25,6 +24,11 @@ header{
 .images-container{
 	width:800px;
 }
+
+.bote{
+	color:white;
+}
+
 .asteal{
 	width:58%;
 	height:auto;
