@@ -87,7 +87,7 @@ header{
 .section-heading{
 	color: rgb(31,17,11);
 	font-family:poppins;
-	font-size: 16px;
+	font-size: 20px;
 	color:rgb(27,20,17);
 }
 h1{
@@ -141,7 +141,7 @@ p.caption{
 	color: rgb(27,20,17);
 	font-style: italic;
 	font-family:poppins;
-	font-size: 20px;
+	font-size: 16px;
 }
 .ern{
 	font-family: roboto;
